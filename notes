@@ -1,0 +1,12 @@
+
+Project Dragon Ball Series
+--------------------------
+DataBase
+--------
+Connection setting
+Create database if not exists 
+
+if(no success|coneect|query){
+    //die = break
+    die(echo the error / error number)
+}
